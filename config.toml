@@ -1,0 +1,20 @@
+theme = "amp"
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "CHANDAN HOODE"
+[[menu.header]]
+  name = "GALLERY"
+  weight = 1
+  url = "https://goo.gl/94ktEf"
+[[menu.header]]
+  name = "TRAVELS"
+  weight = 2
+  url = "http://localhost:59034/"
+[[menu.header]]
+  name = "PROJECTS"
+  weight = 3
+  url = "/projects/"
+[[menu.header]]
+  name = "ABOUT"
+  weight = 5
+  url = "/about/"
