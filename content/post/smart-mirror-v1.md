@@ -6,7 +6,9 @@ title = "Smart Mirror v1.0"
 affiliatelink =  "/img/assemble_1.jpg"
 desc = "this is my firt project"
 +++
-<img src="/img/image.png" width="740px">
+<img src="/img/exported-2184.jpg" width="740px">
+{{< figure title="Raspberry Pi 3, connected and powered on" >}}
+
 
 A couple of years ago, while browsing reddit, I stumbled upon a DIY post where the author described how he had built a smart mirror, a mirror that displays content, using Raspberry Pi and an old monitor. The idea about a mirror being more than just a mirror sounded cool and innovative so I decided to someday try and build one myself.
 
@@ -114,6 +116,10 @@ I taped the Pi case to the back of the monitor and made the other connections (H
 <img src="/img/back_view.jpg" height="500px">
 {{< figure title="Back view with support." >}}
 
+
+
+<img src="/img/exported-2184.jpg" width="740px">
+{{< figure title="Raspberry Pi 3, connected and powered on" >}}
 
 
 A big shoutout to the entire [MagicMirror community](https://forum.magicmirror.builders/) who help answer questions, debug issues and develop new modules, without whom this project would not have been possible. Now with the basic version working, I have some ideas for the next version like voice activated home automation using Alexa (asking mirror to dim the lights, controlling thermostat etc.), personal tickers for stock market and crypto markets, mail/message notifications etc. Keep follwing this site for more details.
